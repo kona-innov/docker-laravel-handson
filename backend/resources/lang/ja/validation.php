@@ -136,5 +136,6 @@ return [
         'name' => '名前',
         'email' => 'メールアドレス',
         'password' => 'パスワード',
+        'content' => '内容',
     ],
 ];
